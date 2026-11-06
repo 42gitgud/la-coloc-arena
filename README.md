@@ -6,7 +6,7 @@ get the same one in the same week), with a prize and a title for the winner.
 
 ## How a week works
 
-1. A week runs from Monday 00:00 UTC to the next Monday. **Only merges before Monday 00:00 UTC count.**
+1. A week runs from Monday 00:00 UTC to the next Monday! **Only merges before Monday 00:00 UTC count.**
 2. In one city's Arena (one arena a week), join the week's challenge, read its folder's README, and fork this repo.
 3. Clone your fork, open a pull request to this repo **after the week started**, from your own GitHub account, and
    paste its address in the Arena (or just open it: if you joined, the Arena picks it up from GitHub by itself).
